@@ -1,0 +1,5 @@
+accessKeyId: TonAccessKey
+secretAccessKey: TonKeySecretdeAWS
+userRDS: tonUtilisateurAdmindeRDS
+mdp: leMotDePasseDeTaBaseRDS
+endpoint: URLDeTonPointdeTonAWS
